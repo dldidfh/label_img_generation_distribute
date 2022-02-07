@@ -1,0 +1,2 @@
+image_num 21056
+dir_num 62
